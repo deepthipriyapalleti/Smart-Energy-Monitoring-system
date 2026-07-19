@@ -52,3 +52,13 @@ This project presents an IoT-based Smart Energy Monitoring System that measures 
 | Sensors | ACS712, ZMPT101B |
 | Display | 1.3" OLED |
 | Relay | Solid State Relay (SSR) |
+
+---
+
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="system_architecture.png" alt="System Architecture" width="80%">
+</p>
+
+The system uses an ESP32 microcontroller to acquire voltage and current data from sensors, process the measurements, display them on an OLED screen, and upload them to the Blynk Cloud through Wi-Fi for real-time monitoring and remote load control.
