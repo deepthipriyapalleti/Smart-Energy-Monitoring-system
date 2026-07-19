@@ -1,4 +1,4 @@
-# ⚡ Smart Energy Monitoring System
+#  Smart Energy Monitoring System
 
 <p align="center">
   <img src="prototype.jpg" width="45%">
@@ -55,7 +55,7 @@ This project presents an IoT-based Smart Energy Monitoring System that measures 
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 <p align="center">
   <img src="system_architecture.png" alt="System Architecture" width="80%">
