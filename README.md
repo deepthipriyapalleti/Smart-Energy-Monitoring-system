@@ -1,4 +1,3 @@
-# Smart-Energy-Monitoring-system
 # ⚡ Smart Energy Monitoring System
 
 <p align="center">
@@ -12,13 +11,13 @@ An IoT-based energy monitoring system using ESP32, Blynk Cloud, and real-time po
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project presents an IoT-based Smart Energy Monitoring System that measures voltage, current, power, and energy consumption in real time. The system uses an ESP32 microcontroller with voltage and current sensors to monitor electrical parameters, display them on an OLED screen, and upload the data to the Blynk Cloud for remote monitoring through a mobile application.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Real-time power monitoring
 - Accurate energy measurement
@@ -27,7 +26,7 @@ This project presents an IoT-based Smart Energy Monitoring System that measures 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - Real-Time Voltage Monitoring
 - Current Measurement
@@ -40,7 +39,7 @@ This project presents an IoT-based Smart Energy Monitoring System that measures 
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 | Category | Technology |
 |----------|------------|
